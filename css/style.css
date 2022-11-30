@@ -223,3 +223,11 @@
   height: 50px;
   background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
 }
+@media only screen and (max-width: 688px) {
+  .search-bar {
+    display: none;
+  }
+  .search-bar .btn {
+    display: none;
+  }
+}
