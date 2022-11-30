@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.search-bar {
+  border: none;
+  border-radius: 30px;
+  background-color: #f1f1f1;
+  width: 508px;
+  height: 48px;
+  padding: 0 25px;
+  font-size: 17px;
+}
+.fa-solid {
+  color: rgb(141, 136, 136);
+  margin-right: 15px;
+}
+.nav-item {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #707070;
+}
